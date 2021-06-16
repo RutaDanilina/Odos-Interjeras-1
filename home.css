@@ -162,12 +162,12 @@ ul li:nth-child(3) a:hover .fa {
   justify-content: center;
   display: flex;
   align-content: center;
-  bottom: 0;
+  bottom: -1px;
   width: 100%;
   height: auto;
   color: rgb(97, 93, 93);
-  padding: 5pxpx;
-  margin: 15px;
+  padding: 9px;
+  background-color: #3c3c3d;
 }
 
 /* MEDIA QUERIES */
